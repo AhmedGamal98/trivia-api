@@ -12,3 +12,13 @@ venv
 .Trashes
 ehthumbs.db
 Thumbs.db
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+venv/
+.venv/
+# OS files
+desktop.ini
+node_modules/
